@@ -4,7 +4,7 @@ Andle is an authoring system for creating traditional adventure gamebooks in pap
 
 # Status
 
-At the moment Andle. is just an experiment an is not in a usable state.
+At the moment Andle. is just an experiment and is not in a usable state.
 
 # License
 
