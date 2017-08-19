@@ -7,7 +7,7 @@
   </models>
   <accessoryModels />
   <generators>
-    <generator alias="main" namespace="Andle.Bold#9089788683898353624" uuid="632e34c0-729a-4985-a114-6d9ad355941a" reflective-queries="true">
+    <generator alias="main" namespace="Andle.Bold#9089788683898423904" uuid="a15d78d4-03d4-49d5-b22d-084402dd440a" reflective-queries="true">
       <models>
         <modelRoot contentPath="${module}/generator/template" type="default">
           <sourceRoot location="." />
@@ -32,7 +32,7 @@
       </languageVersions>
       <dependencyVersions>
         <module reference="4142558c-b22b-486e-b468-12ebc57ddad4(Andle.Bold)" version="0" />
-        <module reference="632e34c0-729a-4985-a114-6d9ad355941a(Andle.Bold#9089788683898353624)" version="0" />
+        <module reference="a15d78d4-03d4-49d5-b22d-084402dd440a(Andle.Bold#9089788683898423904)" version="0" />
         <module reference="3f233e7f-b8a6-46d2-a57f-795d56775243(Annotations)" version="0" />
         <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
         <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
