@@ -34,7 +34,6 @@
         <module reference="3f233e7f-b8a6-46d2-a57f-795d56775243(Annotations)" version="0" />
         <module reference="043a5762-aaf5-4a75-b121-193b42ea8842(Intermediate.HTML)" version="0" />
         <module reference="56058761-978e-49fb-856b-b7de926fa292(Intermediate.HTML#9089788683898354588)" version="0" />
-        <module reference="e19ef638-c71e-4226-b1d3-6266881ee8e9(Intermediate.HTML.runtime)" version="0" />
         <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
         <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
         <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />

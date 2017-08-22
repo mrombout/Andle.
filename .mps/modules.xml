@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/Andle.Bold/Andle.Bold.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Andle.Bold/sandbox/Andle.Bold.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Andle.Code/Andle.Code.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Andle.Code/sandbox/Andle.Code.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Andle/Andle.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Andle/sandbox/Andle.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Intermediate.HTML/Intermediate.HTML.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Intermediate.HTML/sandbox/Intermediate.HTML.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Target.EPUB/Target.EPUB.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Target.EPUB/sandbox/Target.EPUB.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Target.LaTeX/Target.LaTeX.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Target.LaTeX/sandbox/Target.LaTeX.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
