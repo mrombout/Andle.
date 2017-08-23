@@ -52,9 +52,6 @@
     <module reference="d7eb0a2a-bd50-4576-beae-e4a89db35f20(jetbrains.mps.lang.scopes.runtime)" version="0" />
     <module reference="c72da2b9-7cce-4447-8389-f407dc1158b7(jetbrains.mps.lang.structure)" version="0" />
   </dependencyVersions>
-  <runtime>
-    <dependency reexport="false">f514e623-ca4f-49a1-9a8e-22334077336d(Andle.runtime)</dependency>
-  </runtime>
   <extendedLanguages />
 </language>
 

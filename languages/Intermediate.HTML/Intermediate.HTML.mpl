@@ -90,9 +90,6 @@
     <module reference="d7eb0a2a-bd50-4576-beae-e4a89db35f20(jetbrains.mps.lang.scopes.runtime)" version="0" />
     <module reference="c72da2b9-7cce-4447-8389-f407dc1158b7(jetbrains.mps.lang.structure)" version="0" />
   </dependencyVersions>
-  <runtime>
-    <dependency reexport="false">e19ef638-c71e-4226-b1d3-6266881ee8e9(Intermediate.HTML.runtime)</dependency>
-  </runtime>
   <extendedLanguages />
 </language>
 
