@@ -14,6 +14,7 @@
       <modulePath path="$PROJECT_DIR$/languages/Target.EPUB/sandbox/Target.EPUB.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/Target.LaTeX/Target.LaTeX.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/Target.LaTeX/sandbox/Target.LaTeX.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Andle.build/Andle.build.msd" folder="" />
     </projectModules>
   </component>
 </project>
