@@ -7,6 +7,7 @@
   </languages>
   <imports>
     <import index="9ejn" ref="r:18cd58c7-a7dc-4b25-bc41-fcf76e6f3bf6(Intermediate.HTML.structure)" implicit="true" />
+    <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
   </imports>
   <registry>
     <language id="18bc6592-03a6-4e29-a83a-7ff23bde13ba" name="jetbrains.mps.lang.editor">
@@ -54,6 +55,9 @@
   <node concept="24kQdi" id="7S_qEnN8FW2">
     <ref role="1XX52x" to="9ejn:7S_qEnN8FKM" resolve="HtmlDocument" />
     <node concept="3EZMnI" id="7S_qEnN8FW9" role="2wV5jI">
+      <node concept="3F0A7n" id="Pz9a1ReuAP" role="3EZMnx">
+        <ref role="1NtTu8" to="tpck:h0TrG11" resolve="name" />
+      </node>
       <node concept="3F0ifn" id="7S_qEnN8FWg" role="3EZMnx">
         <property role="3F0ifm" value="&lt;!doctype html&gt;" />
         <node concept="ljvvj" id="7S_qEnN8FWj" role="3F10Kt">

@@ -27,13 +27,13 @@
   <node concept="2d1qfa" id="7S_qEnN8h7O">
     <node concept="2d1qfl" id="7S_qEnN8h7P" role="2d1qfg">
       <node concept="2d1qfn" id="7S_qEnN8h7T" role="2d1qfi">
-        <property role="2d17y0" value="This is a simple text. Follow by a" />
+        <property role="2d17y0" value="This is a simple text. Follow by a " />
       </node>
       <node concept="2d17y5" id="7S_qEnN8hng" role="2d1qfi">
         <property role="2d17y4" value="bold text" />
       </node>
       <node concept="2d1qfn" id="7S_qEnN8h88" role="2d1qfi">
-        <property role="2d17y0" value="and also a" />
+        <property role="2d17y0" value=" and also an " />
       </node>
       <node concept="2d1qfh" id="7S_qEnN8h8q" role="2d1qfi">
         <property role="2d17y6" value="italics text" />

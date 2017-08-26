@@ -38,8 +38,14 @@
         <child id="9089788683898502200" name="rootElement" index="2d1Xqt" />
       </concept>
     </language>
+    <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
+      <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
+        <property id="1169194664001" name="name" index="TrG5h" />
+      </concept>
+    </language>
   </registry>
   <node concept="2d1Xqn" id="6dQs1crGM9e">
+    <property role="TrG5h" value="Kolb &amp; the Dragon" />
     <node concept="2d1VUS" id="6dQs1crGM9f" role="2d1Xqt">
       <node concept="2d1VaS" id="6dQs1crGM9g" role="2d1VaU">
         <node concept="2d1SIL" id="6dQs1crGM9i" role="2d1SIM">
