@@ -29,6 +29,7 @@
       </concept>
       <concept id="1204053956946" name="jetbrains.mps.baseLanguage.structure.IMethodCall" flags="ng" index="1ndlxa">
         <reference id="1068499141037" name="baseMethodDeclaration" index="37wK5l" />
+        <child id="1068499141038" name="actualArgument" index="37wK5m" />
       </concept>
     </language>
     <language id="d7a92d38-f7db-40d0-8431-763b0c3c9f20" name="jetbrains.mps.lang.intentions">
@@ -45,6 +46,7 @@
     </language>
     <language id="7866978e-a0f0-4cc7-81bc-4d213d9375e1" name="jetbrains.mps.lang.smodel">
       <concept id="1179409122411" name="jetbrains.mps.lang.smodel.structure.Node_ConceptMethodCall" flags="nn" index="2qgKlT" />
+      <concept id="1143234257716" name="jetbrains.mps.lang.smodel.structure.Node_GetModelOperation" flags="nn" index="I4A8Y" />
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
       <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
@@ -72,6 +74,10 @@
             <node concept="2Sf5sV" id="1CSbFMLsnsJ" role="2Oq$k0" />
             <node concept="2qgKlT" id="1CSbFMLsnHR" role="2OqNvi">
               <ref role="37wK5l" to="acx1:1CSbFMLsjLE" resolve="generate" />
+              <node concept="2OqwBi" id="5lUucYbfVKv" role="37wK5m">
+                <node concept="2Sf5sV" id="5lUucYbfVBH" role="2Oq$k0" />
+                <node concept="I4A8Y" id="5lUucYbfW3r" role="2OqNvi" />
+              </node>
             </node>
           </node>
         </node>
