@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: nl.mikero.andle.core.model
-Bundle-SymbolicName: nl.mikero.andle.core.model; singleton:=true
+Bundle-Name: nl.mikero.andle.model
+Bundle-SymbolicName: nl.mikero.andle.model;singleton:=true
 Bundle-Version: 0.1.0.qualifier
 Require-Bundle: org.eclipse.emf.ecore
