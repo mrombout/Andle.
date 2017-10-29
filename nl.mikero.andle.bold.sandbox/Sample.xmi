@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<andle:Text
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:andle="andle.mikero.nl"
+    xsi:schemaLocation="andle.mikero.nl ../nl.mikero.andle.bold.model/model/bold.ecore">
+  <paragraphs>
+    <nodes xsi:type="andle:PlainTextNode"
+        text="This is a smple text. Followed by a "/>
+    <nodes xsi:type="andle:EmphasisNode"
+        text="bold text"/>
+    <nodes xsi:type="andle:PlainTextNode"
+        text=" and also an "/>
+    <nodes xsi:type="andle:ItalicsNode"
+        test="italics text"/>
+    <nodes xsi:type="andle:PlainTextNode"
+        text="."/>
+  </paragraphs>
+</andle:Text>

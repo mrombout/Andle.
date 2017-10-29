@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="HTML" nsURI="nl.mikero.andle" nsPrefix="andle">
+  <eClassifiers xsi:type="ecore:EClass" name="HTMLDocument">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="rootElement" lowerBound="1"
+        eType="#//HTMLHtmlElement" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="HTMLHtmlElement">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="head" eType="#//HTMLHeadElement"
+        containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="body" eType="#//HTMLBodyElement"
+        containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="HTMLHeadElement">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="titleElement" eType="#//HTMLTitleElement"
+        containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="HTMLBodyElement">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="content" upperBound="-1"
+        eType="#//FlowContent" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="FlowContent" abstract="true" interface="true"/>
+  <eClassifiers xsi:type="ecore:EClass" name="PhrasingContent" abstract="true" interface="true"/>
+  <eClassifiers xsi:type="ecore:EClass" name="HTMLAnchorElement" eSuperTypes="#//FlowContent #//PhrasingContent">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="href_link" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="content" upperBound="-1"
+        eType="#//PhrasingContent" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="HTMLElement" eSuperTypes="#//FlowContent #//PhrasingContent">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="tag" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="content" upperBound="-1"
+        eType="#//PhrasingContent" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="HTMLParagraphElement" eSuperTypes="#//FlowContent">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="content" upperBound="-1"
+        eType="#//FlowContent" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="HTMLTitleElement">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="title" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="PlainTextContent" eSuperTypes="#//FlowContent #//PhrasingContent">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="text" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+</ecore:EPackage>

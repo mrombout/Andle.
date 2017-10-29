@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<andle:HTMLDocument
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:andle="nl.mikero.andle"
+    xsi:schemaLocation="nl.mikero.andle ../nl.mikero.andle.intermediate.html.model/model/html.ecore">
+  <rootElement>
+    <head>
+      <titleElement
+          title="Kolb &amp; the Dragon"/>
+    </head>
+    <body>
+      <content
+          xsi:type="andle:HTMLParagraphElement">
+        <content
+            xsi:type="andle:PlainTextContent"
+            text="This is plain text"/>
+        <content
+            xsi:type="andle:HTMLElement"
+            tag="b">
+          <content
+              xsi:type="andle:PlainTextContent"
+              text="bold content"/>
+        </content>
+        <content
+            xsi:type="andle:PlainTextContent"
+            text="and some"/>
+        <content
+            xsi:type="andle:HTMLElement"
+            tag="i">
+          <content
+              xsi:type="andle:PlainTextContent"
+              text="italics content"/>
+        </content>
+        <content
+            xsi:type="andle:PlainTextContent"
+            text="."/>
+      </content>
+      <content
+          xsi:type="andle:HTMLParagraphElement">
+        <content
+            xsi:type="andle:PlainTextContent"
+            text="There's also a"/>
+        <content
+            xsi:type="andle:HTMLAnchorElement"
+            href_link="index.html">
+          <content
+              xsi:type="andle:PlainTextContent"
+              text="MyLink"/>
+        </content>
+      </content>
+    </body>
+  </rootElement>
+</andle:HTMLDocument>

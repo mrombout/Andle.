@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<andle:Book
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:andle="andle.mikero.nl"
+    xmlns:andle_1="nl.mikero.andle"
+    xsi:schemaLocation="andle.mikero.nl ../nl.mikero.andle.target.epub.model/model/epub.ecore nl.mikero.andle ../nl.mikero.andle.intermediate.html.model/model/html.ecore">
+  <metadata>
+    <titles
+        title="Kolb &amp; the Dragon"/>
+    <authors
+        firstName="Bethesda"
+        lastName="Softworks"/>
+  </metadata>
+  <sections
+      name="Chapter 1">
+    <html>
+      <rootElement>
+        <head>
+          <titleElement
+              title="Kolb &amp; the Dragon"/>
+        </head>
+        <body>
+          <content
+              xsi:type="andle_1:HTMLParagraphElement">
+            <content
+                xsi:type="andle_1:PlainTextContent"
+                text="Hello world!"/>
+          </content>
+        </body>
+      </rootElement>
+    </html>
+  </sections>
+  <sections
+      name="Chapter 2">
+    <html>
+      <rootElement>
+        <body>
+          <content
+              xsi:type="andle_1:HTMLParagraphElement">
+            <content
+                xsi:type="andle_1:PlainTextContent"
+                text="The end!"/>
+          </content>
+        </body>
+      </rootElement>
+    </html>
+  </sections>
+  <resources/>
+  <resources/>
+</andle:Book>

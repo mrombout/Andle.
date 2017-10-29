@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<andle:Document
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:andle="nl.mikero.andle"
+    xsi:schemaLocation="nl.mikero.andle ../nl.mikero.andle.target.latex.model/model/latex.ecore">
+  <documentClass
+      documentClass="article">
+    <options
+        name="10pt"/>
+    <options
+        name="twoside"/>
+  </documentClass>
+  <usePackages
+      packageName="fontenc">
+    <options
+        name="T1"/>
+  </usePackages>
+  <usePackages
+      packageName="hyperref">
+    <options
+        name="colorlinks"
+        value="true"/>
+    <options
+        name="urlcolor"
+        value="black"/>
+  </usePackages>
+  <usePackages
+      packageName="gamebook"/>
+  <titleCommand
+      title="Kolb &amp; the Dragon"/>
+  <authorCommand
+      author="Bethesda Softworks"/>
+  <beginCommand
+      environment="document">
+    <commands
+        xsi:type="andle:BaseCommand"
+        command="gbsection">
+      <arguments
+          value="intro"/>
+    </commands>
+    <commands
+        xsi:type="andle:PlainTextCommand"
+        text="Welcome to the intro."/>
+  </beginCommand>
+</andle:Document>

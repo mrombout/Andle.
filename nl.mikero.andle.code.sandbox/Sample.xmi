@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<andle:Script
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:andle="andle.mikero.nl"
+    xsi:schemaLocation="andle.mikero.nl ../nl.mikero.andle.code.model/model/code.ecore">
+  <statements
+      xsi:type="andle:SetSwitch"
+      switchName="mySwitch"/>
+  <statements
+      xsi:type="andle:Branch"
+      expression="mySwitch">
+    <ifTrue
+        xsi:type="andle:SetSwitch"
+        switchName="newSwitch"/>
+    <ifFalse
+        xsi:type="andle:SetSwitch"
+        switchName="newSwitch"
+        switchState="true"/>
+  </statements>
+</andle:Script>
