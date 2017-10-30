@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="EPUB" nsURI="andle.mikero.nl" nsPrefix="andle">
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="EPUB" nsURI="http://andle.mikero.nl/target/epub" nsPrefix="andle">
   <eClassifiers xsi:type="ecore:EClass" name="Book">
     <eStructuralFeatures xsi:type="ecore:EReference" name="metadata" eType="#//Metadata"
         containment="true"/>
