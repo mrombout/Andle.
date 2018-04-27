@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: nl.mikero.andle.bold.lang.ide
+Bundle-Vendor: My Company
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: nl.mikero.andle.bold.lang.ide; singleton:=true
+Bundle-ActivationPolicy: lazy
+Require-Bundle: nl.mikero.andle.bold.lang,
+ nl.mikero.andle.bold.model,
+ org.eclipse.xtext.ide,
+ org.eclipse.xtext.xbase.ide,
+ org.antlr.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: nl.mikero.andle.ide.contentassist.antlr.internal,
+ nl.mikero.andle.ide.contentassist.antlr
+
