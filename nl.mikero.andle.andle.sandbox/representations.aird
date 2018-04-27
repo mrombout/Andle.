@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:nl.mikero.andle.andle="http://andle.mikero.nl/andle" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis xmi:id="_yzRIsEpfEeiqd79_xfcpFQ" selectedViews="_3R3a8EpfEeiqd79_xfcpFQ" version="12.1.0.201708031200">
+    <semanticResources>Kolb_and_the_Dragon.andle</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_3R3a8EpfEeiqd79_xfcpFQ">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" xmi:id="_4QrMkEpfEeiqd79_xfcpFQ" name="Passage Diagram" repPath="#_4Qke4EpfEeiqd79_xfcpFQ">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']"/>
+        <target xmi:type="nl.mikero.andle.andle:Book" href="Kolb_and_the_Dragon.andle#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram xmi:id="_4QpXYEpfEeiqd79_xfcpFQ" name="Passage Diagram" uid="_4Qke4EpfEeiqd79_xfcpFQ">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_4QpXYUpfEeiqd79_xfcpFQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_4QpXYkpfEeiqd79_xfcpFQ"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_4Q2ywEpfEeiqd79_xfcpFQ" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_4Q2ywUpfEeiqd79_xfcpFQ" type="Sirius" element="_4QpXYEpfEeiqd79_xfcpFQ" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_OQPbMEpgEeiqd79_xfcpFQ" visible="false" type="2001" element="_OQLw0EpgEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_OQQCQEpgEeiqd79_xfcpFQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_OQQCQUpgEeiqd79_xfcpFQ" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_OQQpU0pgEeiqd79_xfcpFQ" type="3003" element="_OQLw0UpgEeiqd79_xfcpFQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_OQQpVEpgEeiqd79_xfcpFQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OQQpVUpgEeiqd79_xfcpFQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_OQPbMUpgEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OQPbMkpgEeiqd79_xfcpFQ" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_QlwhEEpgEeiqd79_xfcpFQ" visible="false" type="2001" element="_QlrBgEpgEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_QlxvMEpgEeiqd79_xfcpFQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_QlxvMUpgEeiqd79_xfcpFQ" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_QlzkYEpgEeiqd79_xfcpFQ" type="3003" element="_QlrokEpgEeiqd79_xfcpFQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_QlzkYUpgEeiqd79_xfcpFQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlzkYkpgEeiqd79_xfcpFQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_QlwhEUpgEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlwhEkpgEeiqd79_xfcpFQ" x="384" y="216" width="181" height="229"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_TUTK8EpgEeiqd79_xfcpFQ" visible="false" type="2001" element="_TUOScEpgEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_TUTyAEpgEeiqd79_xfcpFQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_TUTyAUpgEeiqd79_xfcpFQ" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_TUUZFEpgEeiqd79_xfcpFQ" type="3003" element="_TUO5gEpgEeiqd79_xfcpFQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_TUUZFUpgEeiqd79_xfcpFQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TUUZFkpgEeiqd79_xfcpFQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_TUTK8UpgEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TUTK8kpgEeiqd79_xfcpFQ" x="120" y="216" width="210" height="217"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_efES4EpjEeiqd79_xfcpFQ" type="2003" element="_1bZrwEpjEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_efE58EpjEeiqd79_xfcpFQ" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_efE58UpjEeiqd79_xfcpFQ" type="7004">
+            <children xmi:type="notation:Node" xmi:id="_1bytUEpjEeiqd79_xfcpFQ" type="3010" element="_1ba54kpjEeiqd79_xfcpFQ">
+              <styles xmi:type="notation:FontStyle" xmi:id="_1bytUUpjEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_1bytUkpjEeiqd79_xfcpFQ"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_1bzUYEpjEeiqd79_xfcpFQ" type="3010" element="_1bbg8UpjEeiqd79_xfcpFQ">
+              <styles xmi:type="notation:FontStyle" xmi:id="_1bzUYUpjEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_1bzUYkpjEeiqd79_xfcpFQ"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_efE58kpjEeiqd79_xfcpFQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_efE580pjEeiqd79_xfcpFQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_efES4UpjEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_efES4kpjEeiqd79_xfcpFQ" x="216" y="84"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_efFhAEpjEeiqd79_xfcpFQ" type="2003" element="_1baS0EpjEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_efFhA0pjEeiqd79_xfcpFQ" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_efFhBEpjEeiqd79_xfcpFQ" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_efFhBUpjEeiqd79_xfcpFQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_efFhBkpjEeiqd79_xfcpFQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_efFhAUpjEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_efFhAkpjEeiqd79_xfcpFQ" x="324" y="324"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_efFhB0pjEeiqd79_xfcpFQ" type="2003" element="_1ba54EpjEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_efFhCkpjEeiqd79_xfcpFQ" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_efFhC0pjEeiqd79_xfcpFQ" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_efFhDEpjEeiqd79_xfcpFQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_efFhDUpjEeiqd79_xfcpFQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_efFhCEpjEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_efFhCUpjEeiqd79_xfcpFQ" x="108" y="288"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_3M3CUEpjEeiqd79_xfcpFQ" visible="false" type="2002" element="_3MhEEEpjEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_3M3pYEpjEeiqd79_xfcpFQ" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_3M3pYUpjEeiqd79_xfcpFQ" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_3M3pYkpjEeiqd79_xfcpFQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_3M3pY0pjEeiqd79_xfcpFQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_3M3CUUpjEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3M3CUkpjEeiqd79_xfcpFQ"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_3M3pZEpjEeiqd79_xfcpFQ" visible="false" type="2002" element="_3MhrIEpjEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_3M3pZ0pjEeiqd79_xfcpFQ" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_3M3paEpjEeiqd79_xfcpFQ" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_3M3paUpjEeiqd79_xfcpFQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_3M3pakpjEeiqd79_xfcpFQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_3M3pZUpjEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3M3pZkpjEeiqd79_xfcpFQ" x="372" y="-12"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_3M4QcEpjEeiqd79_xfcpFQ" visible="false" type="2002" element="_3MhrIkpjEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_3M4Qc0pjEeiqd79_xfcpFQ" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_3M4QdEpjEeiqd79_xfcpFQ" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_3M4QdUpjEeiqd79_xfcpFQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_3M4QdkpjEeiqd79_xfcpFQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_3M4QcUpjEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3M4QckpjEeiqd79_xfcpFQ" x="576" y="-12"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_4Q2ywkpfEeiqd79_xfcpFQ"/>
+        <edges xmi:type="notation:Edge" xmi:id="_efHWMEpjEeiqd79_xfcpFQ" type="4001" element="_ecuJgUpjEeiqd79_xfcpFQ" source="_efES4EpjEeiqd79_xfcpFQ" target="_efFhB0pjEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_efHWNEpjEeiqd79_xfcpFQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_efHWNUpjEeiqd79_xfcpFQ" x="7" y="48"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_efHWNkpjEeiqd79_xfcpFQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_efHWN0pjEeiqd79_xfcpFQ" x="71" y="2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_efHWOEpjEeiqd79_xfcpFQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_efHWOUpjEeiqd79_xfcpFQ" x="11" y="-1"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_efHWMUpjEeiqd79_xfcpFQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_efHWMkpjEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_efHWM0pjEeiqd79_xfcpFQ" points="[-11, 20, 97, -184]$[-98, 184, 10, -20]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_efH9QEpjEeiqd79_xfcpFQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_efH9QUpjEeiqd79_xfcpFQ" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_efH9QkpjEeiqd79_xfcpFQ" type="4001" element="_ecuwkEpjEeiqd79_xfcpFQ" source="_efES4EpjEeiqd79_xfcpFQ" target="_efFhAEpjEeiqd79_xfcpFQ">
+          <children xmi:type="notation:Node" xmi:id="_efH9RkpjEeiqd79_xfcpFQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_efH9R0pjEeiqd79_xfcpFQ" x="-10" y="-3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_efH9SEpjEeiqd79_xfcpFQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_efH9SUpjEeiqd79_xfcpFQ" x="43" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_efH9SkpjEeiqd79_xfcpFQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_efH9S0pjEeiqd79_xfcpFQ" x="9" y="-7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_efH9Q0pjEeiqd79_xfcpFQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_efH9REpjEeiqd79_xfcpFQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_efH9RUpjEeiqd79_xfcpFQ" points="[9, 20, -99, -220]$[99, 220, -9, -20]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_efIkUEpjEeiqd79_xfcpFQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_efIkUUpjEeiqd79_xfcpFQ" id="(0.5,0.5)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_OQLw0EpgEeiqd79_xfcpFQ" name="Forest" visible="false" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Forest"/>
+      <semanticElements xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Forest"/>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_OQLw0UpgEeiqd79_xfcpFQ" labelPosition="node">
+        <description xmi:type="style:SquareDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@nodeMappings[name='Passage']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@nodeMappings[name='Passage']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_QlrBgEpgEeiqd79_xfcpFQ" name="Village" visible="false" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Village"/>
+      <semanticElements xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Village"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_QlrokEpgEeiqd79_xfcpFQ" labelPosition="node">
+        <description xmi:type="style:SquareDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@nodeMappings[name='Passage']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@nodeMappings[name='Passage']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_TUOScEpgEeiqd79_xfcpFQ" name="Cave" visible="false" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Cave"/>
+      <semanticElements xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Cave"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_TUO5gEpgEeiqd79_xfcpFQ" labelPosition="node">
+        <description xmi:type="style:SquareDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@nodeMappings[name='Passage']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@nodeMappings[name='Passage']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_ecuJgUpjEeiqd79_xfcpFQ" name="Enter cave" sourceNode="_1bZrwEpjEeiqd79_xfcpFQ" targetNode="_1ba54EpjEeiqd79_xfcpFQ">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Forest"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_ecuJgkpjEeiqd79_xfcpFQ" targetArrow="InputFillClosedArrow" size="2" centered="Both">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@edgeMappings[name='ChoiceTo']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_ecuJg0pjEeiqd79_xfcpFQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@edgeMappings[name='ChoiceTo']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_ecuwkEpjEeiqd79_xfcpFQ" name="Go home" sourceNode="_1bZrwEpjEeiqd79_xfcpFQ" targetNode="_1baS0EpjEeiqd79_xfcpFQ">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Forest"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_ecuwkUpjEeiqd79_xfcpFQ" targetArrow="InputFillClosedArrow" size="2" centered="Both">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@edgeMappings[name='ChoiceTo']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_ecuwkkpjEeiqd79_xfcpFQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@edgeMappings[name='ChoiceTo']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_1bZrwEpjEeiqd79_xfcpFQ" name="Forest" outgoingEdges="_ecuJgUpjEeiqd79_xfcpFQ _ecuwkEpjEeiqd79_xfcpFQ" width="10" height="10">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Forest"/>
+      <semanticElements xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Forest"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_1bZrwUpjEeiqd79_xfcpFQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="194,239,255" foregroundColor="194,239,255">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer']"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_1ba54kpjEeiqd79_xfcpFQ" name="Enter cave : Cave">
+        <target xmi:type="nl.mikero.andle.andle:Choice" href="Kolb_and_the_Dragon.andle#//@passages.0/@choices.0"/>
+        <semanticElements xmi:type="nl.mikero.andle.andle:Choice" href="Kolb_and_the_Dragon.andle#//@passages.0/@choices.0"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_1bbg8EpjEeiqd79_xfcpFQ" labelAlignment="LEFT" labelPosition="node" color="136,136,136">
+          <description xmi:type="style:BundledImageDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer']/@subNodeMappings[name='Choice']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer']/@subNodeMappings[name='Choice']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_1bbg8UpjEeiqd79_xfcpFQ" name="Go home : Village">
+        <target xmi:type="nl.mikero.andle.andle:Choice" href="Kolb_and_the_Dragon.andle#//@passages.0/@choices.1"/>
+        <semanticElements xmi:type="nl.mikero.andle.andle:Choice" href="Kolb_and_the_Dragon.andle#//@passages.0/@choices.1"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_1bbg8kpjEeiqd79_xfcpFQ" labelAlignment="LEFT" labelPosition="node" color="136,136,136">
+          <description xmi:type="style:BundledImageDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer']/@subNodeMappings[name='Choice']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer']/@subNodeMappings[name='Choice']"/>
+      </ownedElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_1baS0EpjEeiqd79_xfcpFQ" name="Village" incomingEdges="_ecuwkEpjEeiqd79_xfcpFQ" width="10" height="10">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Village"/>
+      <semanticElements xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Village"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_1baS0UpjEeiqd79_xfcpFQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="194,239,255" foregroundColor="194,239,255">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_1ba54EpjEeiqd79_xfcpFQ" name="Cave" incomingEdges="_ecuJgUpjEeiqd79_xfcpFQ" width="10" height="10">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Cave"/>
+      <semanticElements xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Cave"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_1ba54UpjEeiqd79_xfcpFQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="194,239,255" foregroundColor="194,239,255">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_3MhEEEpjEeiqd79_xfcpFQ" name="Forest" visible="false" childrenPresentation="VerticalStack">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Forest"/>
+      <semanticElements xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Forest"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_3MhEEUpjEeiqd79_xfcpFQ" borderSize="1" borderSizeComputationExpression="1">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer2']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer2']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_3MhrIEpjEeiqd79_xfcpFQ" name="Village" visible="false" childrenPresentation="VerticalStack">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Village"/>
+      <semanticElements xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Village"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_3MhrIUpjEeiqd79_xfcpFQ" borderSize="1" borderSizeComputationExpression="1">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer2']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer2']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_3MhrIkpjEeiqd79_xfcpFQ" name="Cave" visible="false" childrenPresentation="VerticalStack">
+      <target xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Cave"/>
+      <semanticElements xmi:type="nl.mikero.andle.andle:Passage" href="Kolb_and_the_Dragon.andle#Cave"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_3MhrI0pjEeiqd79_xfcpFQ" borderSize="1" borderSizeComputationExpression="1">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer2']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer/@containerMappings[name='PassageContainer2']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_4QpXZEpfEeiqd79_xfcpFQ"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/nl.mikero.andle.andle.design/description/andle.odesign#//@ownedViewpoints[name='Default']/@ownedRepresentations[name='Passage%20Diagram']/@defaultLayer"/>
+    <target xmi:type="nl.mikero.andle.andle:Book" href="Kolb_and_the_Dragon.andle#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nl.mikero.andle.andle:Book xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:nl.mikero.andle.andle="http://andle.mikero.nl/andle" title="Kolb &amp; the Dragon" author="Bethesda">
+  <passages name="Forest" text="You are in the forest close to your home. There's also a cave.">
+    <choices text="Enter cave" to="Cave"/>
+    <choices text="Go home" to="Village"/>
+  </passages>
+  <passages name="Village" text="You're in a nice village."/>
+  <passages name="Cave" text="You are in a scary smelly cave!"/>
+</nl.mikero.andle.andle:Book>
