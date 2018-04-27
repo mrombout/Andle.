@@ -10,7 +10,7 @@
       <!-- @generated andle -->
       <factory
             uri="http://andle.mikero.nl/andle"
-            class="nl.mikero.andle.provider.AndleItemProviderAdapterFactory"
+            class="andle.provider.AndleItemProviderAdapterFactory"
             supportedTypes=
               "org.eclipse.emf.edit.provider.IEditingDomainItemProvider
                org.eclipse.emf.edit.provider.IStructuredItemContentProvider

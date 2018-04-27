@@ -10,7 +10,7 @@
       <!-- @generated andle -->
       <package
             uri="http://andle.mikero.nl/andle"
-            class="nl.mikero.andle.AndlePackage"
+            class="andle.AndlePackage"
             genModel="model/andle.genmodel"/>
    </extension>
 

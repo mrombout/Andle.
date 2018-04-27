@@ -9,7 +9,10 @@ Bundle-Localization: plugin
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package: nl.mikero.andle,
  nl.mikero.andle.impl,
- nl.mikero.andle.util
+ nl.mikero.andle.util,
+ andle,
+ andle.impl,
+ andle.util
 Require-Bundle: org.eclipse.core.runtime,
  org.eclipse.emf.ecore;visibility:=reexport
 Bundle-ActivationPolicy: lazy
