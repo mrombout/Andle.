@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/nl.mikero.andle.code.model/src" modelPluginID="nl.mikero.andle.code.model"
+    modelName="Code" rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container"
+    importerID="org.eclipse.emf.importer.ecore" complianceLevel="8.0" copyrightFields="false"
+    operationReflection="true" importOrganizing="true">
+  <foreignModel>code.ecore</foreignModel>
+  <genPackages prefix="Code" disposableProviderFactory="true" ecorePackage="code.ecore#/">
+    <genClasses ecoreClass="code.ecore#//Script">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference code.ecore#//Script/statements"/>
+    </genClasses>
+    <genClasses image="false" ecoreClass="code.ecore#//Statement"/>
+    <genClasses ecoreClass="code.ecore#//SetSwitch">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute code.ecore#//SetSwitch/switchName"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute code.ecore#//SetSwitch/switchState"/>
+    </genClasses>
+    <genClasses ecoreClass="code.ecore#//Branch">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute code.ecore#//Branch/expression"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference code.ecore#//Branch/ifTrue"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference code.ecore#//Branch/ifFalse"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>
