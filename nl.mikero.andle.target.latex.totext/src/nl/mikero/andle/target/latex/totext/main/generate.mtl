@@ -1,0 +1,9 @@
+[comment encoding = UTF-8 /]
+[module generate('http://andle.mikero.nl/target/latex')]
+
+[template public generateElement(document : Document)]
+[comment @main /]
+[file ('text.latex', false)]
+Hello World!
+[/file]
+[/template]
