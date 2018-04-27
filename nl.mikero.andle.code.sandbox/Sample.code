@@ -1,0 +1,5 @@
+set FoundGold to true
+
+if ("FoundGold == true") {
+	set GetRobbedAtForest to true	
+}
