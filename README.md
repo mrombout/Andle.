@@ -1,4 +1,4 @@
-![](https://rawgit.com/mrombout/Andle./master/docs/andle_logo.svg)
+![](docs/andle_logo.png)
 
 Andle is an authoring system for creating traditional adventure gamebooks in paper (using LaTeX) and epub format. It provides a (soon to be) powerful editor that allows one to create professional looking adventure gamebooks.
 
