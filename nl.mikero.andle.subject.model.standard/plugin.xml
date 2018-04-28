@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated StandardSubjects -->
+      <package
+            uri="http://andle.mikero.nl/subject/standard"
+            class="standardsubjects.StandardsubjectsPackage"
+            genModel="model/StandardSubjects.genmodel"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated characters -->
+      <package
+            uri="http://andle.mikero.nl/subject/standard/characters"
+            class="characters.CharactersPackage"
+            genModel="model/characters.genmodel"/>
+   </extension>
+
+</plugin>
