@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.eclipse.emf.ecp.view.model:View xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:org.eclipse.emf.ecp.view.model="http://org/eclipse/emf/ecp/view/model/170" xmi:id="_ZktO4EqpEei4JNkTxxtywA" name="Character" ecorePath="/nl.mikero.andle.subject.model.standard/model/characters.ecore">
+  <rootEClass href="http://andle.mikero.nl/subject/standard/characters#//Character"/>
+  <children xsi:type="org.eclipse.emf.ecp.view.model:Control" xmi:id="_Zk-7sEqpEei4JNkTxxtywA" name="Control picture">
+    <domainModelReference xsi:type="org.eclipse.emf.ecp.view.model:FeaturePathDomainModelReference" xmi:id="_Zk-7sUqpEei4JNkTxxtywA">
+      <domainModelEFeature xsi:type="ecore:EAttribute" href="http://andle.mikero.nl/subject/standard/characters#//Character/picture"/>
+    </domainModelReference>
+  </children>
+  <children xsi:type="org.eclipse.emf.ecp.view.model:Control" xmi:id="_Zk-7skqpEei4JNkTxxtywA" name="Control firstName">
+    <domainModelReference xsi:type="org.eclipse.emf.ecp.view.model:FeaturePathDomainModelReference" xmi:id="_Zk-7s0qpEei4JNkTxxtywA">
+      <domainModelEFeature xsi:type="ecore:EAttribute" href="http://andle.mikero.nl/subject/standard/characters#//Character/firstName"/>
+    </domainModelReference>
+  </children>
+  <children xsi:type="org.eclipse.emf.ecp.view.model:Control" xmi:id="_Zk-7tEqpEei4JNkTxxtywA" name="Control lastName">
+    <domainModelReference xsi:type="org.eclipse.emf.ecp.view.model:FeaturePathDomainModelReference" xmi:id="_Zk-7tUqpEei4JNkTxxtywA">
+      <domainModelEFeature xsi:type="ecore:EAttribute" href="http://andle.mikero.nl/subject/standard/characters#//Character/lastName"/>
+    </domainModelReference>
+  </children>
+  <children xsi:type="org.eclipse.emf.ecp.view.model:Control" xmi:id="_Zk-7tkqpEei4JNkTxxtywA" name="Control age">
+    <domainModelReference xsi:type="org.eclipse.emf.ecp.view.model:FeaturePathDomainModelReference" xmi:id="_Zk-7t0qpEei4JNkTxxtywA">
+      <domainModelEFeature xsi:type="ecore:EAttribute" href="http://andle.mikero.nl/subject/standard/characters#//Character/age"/>
+    </domainModelReference>
+  </children>
+  <children xsi:type="org.eclipse.emf.ecp.view.model:Control" xmi:id="_Zk-7uEqpEei4JNkTxxtywA" name="Control description">
+    <domainModelReference xsi:type="org.eclipse.emf.ecp.view.model:FeaturePathDomainModelReference" xmi:id="_Zk-7uUqpEei4JNkTxxtywA">
+      <domainModelEFeature xsi:type="ecore:EAttribute" href="http://andle.mikero.nl/subject/standard/characters#//Character/description"/>
+    </domainModelReference>
+  </children>
+</org.eclipse.emf.ecp.view.model:View>

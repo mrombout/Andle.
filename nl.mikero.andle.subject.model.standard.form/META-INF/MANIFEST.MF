@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: nl.mikero.andle.subject.model.standard.form
+Bundle-SymbolicName: nl.mikero.andle.subject.model.standard.form;singleton:=true
+Bundle-Version: 1.0.0.qualifier
