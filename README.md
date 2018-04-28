@@ -8,32 +8,20 @@ Andle. is merely a playground for me to try out new things related to MDE. It is
 
 ## Features
 
-* Andle.
+* **Andle.**
   * Provides a diagram editor for editing pages in a book and how these link to each other.
-  * It is powered by [Sirius](https://www.eclipse.org/sirius/).
-* Andle.Bold
+* **Andle.Bold**
   * Provides a textual markup language for writing pages.
-  * It is powered by [Xtext](https://www.eclipse.org/Xtext/).
-* Andle.Code
+* **Andle.Code**
   * Provides a simple scripting language that compiles into a flat file structure.
-  * It is powered by [Xtext](https://www.eclipse.org/Xtext/).
-* Andle.Desk
+* **Andle.Desk**
   * Provides a fully dedicated editor application.
-  * It is powered by [Eclipse RCP](https://wiki.eclipse.org/Rich_Client_Platform).
-* Andle.Subjects
+* **Andle.Subjects**
   * Provides a way to manage important entities in an Andle. book such as characters, locations, etc.
-  * It is powered by [Sirius](https://www.eclipse.org/sirius/).
-  * It is powered by [EMFForms](https://www.eclipse.org/ecp/emfforms/)
-  * It is powered by [EEF](https://www.eclipse.org/eef/#/)
-* Andle.Target.EPUB
+* **Andle.Target.EPUB**
   * Turns an Andle. book into an EPUB book.
-  * It is powered by [QVTo](https://projects.eclipse.org/projects/modeling.mmt.qvt-oml)
-  * It is powered by [EMF](http://www.eclipse.org/modeling/emf/)
-  * It is powered by [epublib](https://github.com/psiegman/epublib)
-* Andle.Target.LaTeX
+* **Andle.Target.LaTeX**
   * Turns an Andle. book into a LatEx book.
-  * It is powered by [QVTo](https://projects.eclipse.org/projects/modeling.mmt.qvt-oml)
-  * It is powered by [Acceleo](https://www.eclipse.org/acceleo/)
 
 ## Technologies
 
